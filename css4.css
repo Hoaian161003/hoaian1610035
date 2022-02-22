@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+}
+.head{
+    background: blue;
+    color:  white;
+}
+th{
+    border: 2px solid lightblue;
+}
+td{
+    border: 2px solid lightblue;
+}
+.body{
+    background: cornsilk;
+    color: black;
+}
+.bd{
+    text-align: center;
+    font-size: 25px;
+    color: aliceblue;
+}
+.p1{
+    color: red;
+}

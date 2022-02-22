@@ -1,0 +1,24 @@
+.all{
+    text-align: center;
+    padding: 15px;
+}
+.pass{
+    padding: 10px;
+}
+.favor{
+    padding: 10px;
+}
+button{
+    padding: 8px 15px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    box-shadow: inset 0 0 20px blue;
+}
+button:hover{
+    color: aqua;
+    box-shadow: inset 0 0 20px lightpink;
+}
