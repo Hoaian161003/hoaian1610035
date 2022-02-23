@@ -100,17 +100,12 @@ aside>ul>li>a:hover{
     background-color: orange;
     color: white;
 }
-article .News .firts{
-    width: 26%;
-    padding: 2%;
-    float:left;
-    border: 3px solid rebeccapurple;
-    margin-right: 4%;
-    background-color: white;
-    
-}
-article{
-    padding: 3%;
-    background-color: white;
+.container>article{
+    background-color: lightslategray;
     float: left;
+    width: 75%;
+    min-height: 1500px;
+}
+.contain>article>.News>.content{
+    float: right;
 }
